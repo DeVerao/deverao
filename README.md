@@ -1,9 +1,11 @@
 <h1 align="center"> Seja bem vindo(a) Sou Gustavo Verão! </h1>
 <p align="center"> Sou estudante de Front/Back End, mergulhando nesse mundo maravilhoso da programação </p>
 
-
-[![Linkendin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gugaverao/)
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/gugaverao/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+</div>
 <div align='center' style="display: inline_block">
 <h3>Linguagens que estou aprendendo</h3>
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
