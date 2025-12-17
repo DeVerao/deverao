@@ -41,8 +41,8 @@
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  <img src='https://github-readme-stats.vercel.app/api?username=deverao&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=true&show_owner=true' alt="Gustavo's GitHub Stats"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deverao&theme=dracula&hide_border=true&&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=deverao&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deverao&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
 <br/>
